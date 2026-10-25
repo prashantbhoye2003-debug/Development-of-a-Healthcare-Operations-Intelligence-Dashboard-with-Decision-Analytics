@@ -1,6 +1,0 @@
-# Treat binaries explicitly to prevent line-ending alterations
-*.pdf binary
-*.docx binary
-*.png binary
-*.jpg binary
-*.jpeg binary
